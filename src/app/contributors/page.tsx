@@ -11,7 +11,7 @@ const contributors = [
     role: "BD/Marketing"
   },
   {
-    name: "Chrisst",
+    name: "Chrissy",
     role: "LCOO (interim) & CLO of @paritytech",
     social: "@uschill"
   },
